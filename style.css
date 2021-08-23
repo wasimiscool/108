@@ -1,0 +1,35 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: skyblue;
+}
+.header_div{
+    background-color: gold;
+    color: black;
+}
+.header_div p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    letter-spacing: 2px;
+    font-weight: 700;
+    font-size: medium;
+}
+.main_div button{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    letter-spacing: 2px;
+    font-weight: 700;
+    font-size: medium;
+}
+.copy_right_footer{
+    position: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+    letter-spacing: 2px;
+    font-weight: 400;
+    font-size: small;
+    line-height: 3px;
+    text-align: center;
+    text-shadow: black;
+    width:100%;
+
+}
